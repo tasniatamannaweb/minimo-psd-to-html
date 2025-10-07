@@ -202,7 +202,9 @@ header{
   outline: 0;
 }
 
-.s_form button img{}
+.s_form button img{
+  width: 100%;
+}
 /*newslatter start*/
 
 .blog2{
@@ -286,3 +288,4 @@ header{
 .footer img {
   width: auto;
 }
+
